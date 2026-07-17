@@ -1,33 +1,40 @@
 # João Pedro
 
-Full-stack developer focused on Django REST Framework,
-JavaScript and TypeScript.
+Full-stack developer and Computer Science student focused on building
+practical web applications for real-world business workflows.
 
-Currently building real-world SaaS products and learning
-software architecture, testing and DevOps.
+My main stack includes Django REST Framework, JavaScript, TypeScript
+and PostgreSQL. I am also expanding my knowledge in software
+architecture, testing, deployment and DevOps.
 
-## Current work
+## What I build
 
-- LexFlow — legal workflow and case management platform
-- Mini Desk — customer support and ticket management system
+I develop web platforms focused on workflow management, process
+automation and tools that simplify the daily work of real users.
 
-## Main stack
+## Technologies
 
-Python · Django · Django REST Framework
-JavaScript · TypeScript
-PostgreSQL · Docker · Git · Railway
+**Backend:** Python · Django · Django REST Framework  
+**Frontend:** JavaScript · TypeScript · HTML · CSS · Bootstrap  
+**Data and infrastructure:** PostgreSQL · Docker · Git · Railway
 
-## Featured projects
+## Selected projects
 
-### Mini Desk
-Ticket management platform for customers and support teams.
+### [LexFlow](LINK_DO_CASE_STUDY)
 
-### Investment Calculator
-TypeScript application for simulating compound investment growth.
+A legal workflow platform for managing clients, cases, deadlines,
+documents and internal activities.
 
-### Retro Dex
-Pokédex consuming the PokéAPI with modular JavaScript.
+### [Mini Desk](https://github.com/joaodev-19/mini-desk)
+
+A customer support platform for reporting issues, exchanging
+information and tracking tickets through their resolution workflow.
+
+### [Investment Calculator](https://github.com/joaodev-19/investment-calculator)
+
+A TypeScript application for simulating compound investment growth
+and displaying the evolution of invested capital over time.
 
 ## Contact
 
-LinkedIn · Email · Portfolio
+[LinkedIn](SEU_LINK) · [Email](mailto:SEU_EMAIL)
