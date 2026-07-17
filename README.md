@@ -37,4 +37,4 @@ and displaying the evolution of invested capital over time.
 
 ## Contact
 
-[LinkedIn](SEU_LINK) · [Email](mailto:SEU_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-silva-59218b339/) · [Email](mailto:joaopedromoraessilva137@gmail.com)
