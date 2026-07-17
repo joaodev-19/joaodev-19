@@ -1,16 +1,33 @@
-## Hi there 👋
+# João Pedro
 
-<!--
-**joaodev-19/joaodev-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on Django REST Framework,
+JavaScript and TypeScript.
 
-Here are some ideas to get you started:
+Currently building real-world SaaS products and learning
+software architecture, testing and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current work
+
+- LexFlow — legal workflow and case management platform
+- Mini Desk — customer support and ticket management system
+
+## Main stack
+
+Python · Django · Django REST Framework
+JavaScript · TypeScript
+PostgreSQL · Docker · Git · Railway
+
+## Featured projects
+
+### Mini Desk
+Ticket management platform for customers and support teams.
+
+### Investment Calculator
+TypeScript application for simulating compound investment growth.
+
+### Retro Dex
+Pokédex consuming the PokéAPI with modular JavaScript.
+
+## Contact
+
+LinkedIn · Email · Portfolio
